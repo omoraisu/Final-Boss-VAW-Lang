@@ -1,0 +1,10 @@
+Expert,Systemic to Resource,Systemic to Data Monitoring,Systemic to Sociocultural,Systemic to Accessibility,Systemic to Political,Resource to Systemic,Resource to Data Monitoring,Resource to Sociocultural,Resource to Accessibility,Resource to Political,Data Monitoring to Systemic,Data Monitoring to Resource,Data Monitoring to Sociocultural,Data Monitoring to Accessibility,Data Monitoring to Political,Sociocultural to Systemic,Sociocultural to Resource,Sociocultural to Data Monitoring,Sociocultural to Accessibility,Sociocultural to Political,Accessibility to Systemic,Accessibility to Resource,Accessibility to Data Monitoring,Accessibility to Sociocultural,Accessibility to Political,Political to Systemic,Political to Resource,Political to Data Monitoring,Political to Sociocultural,Political to Accessibility
+Expert 1,MI,MI,HI,HI,HI,MI,MI,HI,MI,HI,MI,MI,HI,MI,HI,HI,HI,HI,MI,HI,MI,HI,MI,HI,HI,HI,HI,HI,MI,HI
+Expert 2,HI,HI,MI,HI,VHI,VHI,HI,MI,HI,VHI,HI,HI,MI,HI,VHI,MI,MI,HI,MI,MI,HI,HI,HI,MI,HI,HI,VHI,HI,MI,HI
+Expert 3,MI,HI,HI,HI,MI,HI,LI,LI,LI,MI,MI,HI,MI,HI,HI,HI,LI,LI,VHI,HI,MI,MI,MI,HI,HI,HI,VHI,LI,HI,MI
+Expert 4,HI,MI,HI,HI,HI,HI,HI,MI,HI,HI,MI,MI,LI,HI,MI,HI,MI,MI,HI,MI,MI,HI,HI,MI,HI,VHI,VHI,HI,HI,HI
+Expert 5,HI,MI,LI,MI,LI,HI,HI,LI,MI,LI,LI,MI,NI,LI,MI,LI,MI,NI,HI,MI,MI,MI,LI,MI,MI,HI,HI,LI,MI,LI
+Expert 6,HI,HI,MI,MI,MI,HI,HI,HI,HI,MI,HI,MI,MI,MI,MI,HI,HI,MI,MI,MI,HI,HI,HI,MI,MI,MI,MI,HI,MI,MI
+Expert 7,HI,LI,HI,NI,HI,LI,MI,LI,LI,MI,MI,MI,HI,MI,HI,LI,MI,MI,HI,HI,HI,HI,MI,HI,MI,MI,LI,LI,MI,MI
+Expert 8,HI,MI,LI,MI,LI,LI,HI,LI,HI,HI,VHI,HI,LI,HI,LI,VHI,VHI,MI,VHI,VHI,LI,MI,MI,MI,MI,HI,VHI,LI,HI,HI
+Expert 9,HI,VHI,MI,VHI,HI,MI,HI,HI,VHI,VHI,VHI,HI,MI,VHI,HI,HI,VHI,HI,VHI,HI,VHI,VHI,VHI,VHI,VHI,VHI,VHI,HI,VHI,VHI
